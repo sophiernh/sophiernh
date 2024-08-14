@@ -1,4 +1,8 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=700&size=21&duration=2500&pause=600&color=000000&background=2013FF00&vCenter=true&multiline=true&width=500&height=160&lines=I'm+Sophie%2C+and+I+work+with+codes;Law+and+Tech%2C+down+different+roads;I+switched+on+my+geek+mode;Now+it's+softwareness+overload...)](https://git.io/typing-svg)
+
+
+
+
 
 <!--
 **sophiernh/sophiernh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
